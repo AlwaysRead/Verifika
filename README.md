@@ -84,8 +84,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ## **🌟 Future Scope**  
 ✅ **Improved Accuracy** – Upgrade to Deep Learning (Transformers, BERT, LSTMs)  
-✅ **Multi-Language Support** – Expand to detect misinformation across languages  
-✅ **Blockchain Integration** – Immutable records for verified news sources  
+✅ **Multi-Language Support** – Expand to detect misinformation across languages   
 ✅ **Mobile App & Browser Extension** – For seamless user experience  
 ✅ **Social Media Integration** – Fact-check trending topics in real-time  
 
