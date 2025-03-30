@@ -1,2 +1,0 @@
-# VERIFIKA
-Dcooked JEC
