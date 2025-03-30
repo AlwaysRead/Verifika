@@ -48,7 +48,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 ---
 
 ## **🛠️ Technologies Used**
-- **Frontend:** React.js, CSS, Vercel (Frontend Hosting)
+- **Frontend:** [React.js & CSS](https://github.com/AlwaysRead/VerifikaFrontend.git) [Github Repo], Vercel (Frontend Hosting)
 - **Backend:** Python, Render (Backend Hosting)
 - **Model Training:** Scikit-learn, NLTK, Logistic Regression  
 - **Data Storage & Management:** GitHub  
