@@ -1,2 +1,2 @@
-# Fake-News-Detection
+# VERIFIKA
 Dcooked JEC
