@@ -1,6 +1,9 @@
 ---
 
 # **VERIFIKA – AI-Powered Fake News Detection WebApp**  
+### **Verifika** is a **AI Fake-News Detector WebApp** which utilizes Machine Learning to verify and detect fake news along with **Sentimental**, **Political** and **Clickbait** analysis of the news.
+
+---
 
 ## **📌 Vision**  
 In an era where misinformation spreads faster than truth, **VERIFIKA** aims to be the **digital guardian of truth**. By leveraging **AI-powered fact-checking**, we strive to create a world where individuals can access **unbiased, credible, and verified news** in real-time.  
@@ -43,7 +46,6 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 ✔ **Fake News Detection** – AI-powered model to classify news as **Real** or **Fake**.  
 ✔ **Sentiment & Bias Analysis** – Understand the emotional and political tilt of the article.  
 ✔ **Clickbait Detector** – Identify misleading and sensationalist headlines.  
-✔ **Credibility Score** – Evaluate the trustworthiness of a source before sharing.  
 ✔ **WebApp Interface** – Accessible via a user-friendly web application.  
 
 ---
