@@ -2,12 +2,12 @@
 
 ---
 
-## **📌 Vision**
+## **Vision**
 In an era where misinformation spreads faster than truth, **VERIFIKA** aims to be the **digital guardian of truth**. By leveraging **AI-powered fact-checking**, we strive to create a world where individuals can access **unbiased, credible, and verified news** in real-time.
 
 ---
 
-## **📊 System Flowchart**
+## **System Flowchart**
 ```
 User Input (News Article Text)  
         ↓  
@@ -24,7 +24,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **📂 Dataset**
+## **Dataset**
 - **Source:** [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 - **Size:**
   - `Fake.csv` (23,502 fake news articles)
@@ -37,7 +37,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **🚀 Features**
+## **Features**
 ✔ **Real-Time Fact-Checking** – Instantly verify online news and social media posts.  
 ✔ **Fake News Detection** – AI-powered model to classify news as **Real** or **Fake**.  
 ✔ **Sentiment & Bias Analysis** – Understand the emotional and political tilt of the article.  
@@ -47,7 +47,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **🛠️ Technologies Used**
+## **Technologies Used**
 - **Frontend:** [React.js & CSS](https://github.com/AlwaysRead/VerifikaFrontend.git) [Github Repo], Vercel (Frontend Hosting)
 - **Backend:** Python, Render (Backend Hosting)
 - **Model Training:** Scikit-learn, NLTK, Logistic Regression  
@@ -55,7 +55,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **🎯 Model Training & Selection**   
+## **Model Training & Selection**   
 - **Preprocessing:** Tokenization, Stopword Removal, TF-IDF  
 - **Models Used:**
   - Logistic Regression (**Best-performing model, achieving 98% accuracy**)
@@ -71,7 +71,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **⚡ Real-Time Prediction**  
+## **Real-Time Prediction**  
 1. **User Inputs an Article or News Headlines**  
 2. **Preprocessed & Extracted Features Sent to ML Model**  
 3. **AI Model Analyzes & Returns:**  
@@ -82,16 +82,16 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **🌟 Future Scope**
-✅ **Improved Accuracy** – Upgrade to Deep Learning (Transformers, BERT, LSTMs)  
-✅ **Multi-Language Support** – Expand to detect misinformation across languages  
-✅ **Blockchain Integration** – Immutable records for verified news sources  
-✅ **Mobile App & Browser Extension** – For seamless user experience  
-✅ **Social Media Integration** – Fact-check trending topics in real-time  
+## **Future Scope**
+**Improved Accuracy** – Upgrade to Deep Learning (Transformers, BERT, LSTMs)  
+**Multi-Language Support** – Expand to detect misinformation across languages  
+**Blockchain Integration** – Immutable records for verified news sources  
+**Mobile App & Browser Extension** – For seamless user experience  
+**Social Media Integration** – Fact-check trending topics in real-time  
 
 ---
 
-## **▶️ Sample**
+## **Sample**
 ![image](https://github.com/user-attachments/assets/2e9cd051-4837-41c6-a507-99118a5f8645)
 
 ![image](https://github.com/user-attachments/assets/8a773e84-6b1c-44b5-b7c9-f89ef01d2421)
@@ -100,7 +100,7 @@ Result Output (Fake/Real News Classification + Additional Analysis)
 
 ---
 
-## **💬 Contact**
+## **Contact**
 [**Chinmoy Saikia**](https://github.com/AlwaysRead/)  
 [**Nichol Das**](https://github.com/Nichkol)  
 
